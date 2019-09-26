@@ -15,10 +15,6 @@ To map web pages TAF use support of a PageFactory.
 5. Provide more data if there is a possibility with a usage of a system db.
 
 ## Project structure.
-automationpractice
-
-|
-└───java
 
     |
     
