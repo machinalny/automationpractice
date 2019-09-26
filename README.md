@@ -16,28 +16,42 @@ To map web pages TAF use support of a PageFactory.
 
 ## Project structure.
 automationpractice
-│   pom.xml
-│   testng.xml    
-│   readme.MD
+
 |
 └───java
+
     |
+    
     └───com.machinalny.automationpractice
+    
         |
+        
         └───component
             |
+            
             | Repeatable components of HTML Pages
         |
+        
         └───page
+        
             |
+            
             | Page Objects
+            
         |
+        
         └───testcase
+        
             |
+            
             | Test Cases
+            
         |
+        
         └───utils
+        
             |
+            
             | Extra utility classes
             
 
